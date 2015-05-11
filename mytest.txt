@@ -1,4 +1,7 @@
 これは
 dev
-
 です。
+
+origin/feature/1year
+をマージしました。
+
