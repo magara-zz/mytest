@@ -1,8 +1,4 @@
 これは
-master
+origin
 
 です。
-
-masterを修正しました。
-devとマージしました。
->>>>>>> master
