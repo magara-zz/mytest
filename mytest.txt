@@ -5,3 +5,6 @@ dev
 origin/feature/1year
 をマージしました。
 
+
+何かを編集しました。
+
